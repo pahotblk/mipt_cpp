@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# CMake / сборка
+out/
+build/
+CMakeSettings.json
+CMakePresets.json
+CMakeUserPresets.json
+
+# Бинарники
+*.exe
+*.obj
+*.pdb
+*.ilk
