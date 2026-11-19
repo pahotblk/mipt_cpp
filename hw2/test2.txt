@@ -1,0 +1,21 @@
+add scooter S-1 ModelX 2.5 8
+add ebike E-1 Volt 1.5 7
+add monowheel M-1 Uni 3.0 9
+add lock L-1 Kryptonite
+add scooter S-2 BrokenFast 1.0 9
+add bike B-1 City 11
+add dock D-1 Hub -1
+add scooter S-1 Copy 1.0 5
+add car C-1 Lada
+fly
+show_focus
+focus S-1
+show_focus
+remove S-1
+show_focus
+remove S-1
+novice
+energy
+rejected
+list
+quit
